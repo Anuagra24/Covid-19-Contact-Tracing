@@ -1,1 +1,1 @@
-# Covid-19-Contact-Tracing
+This project is focused on leveraging machine learning techniques for COVID-19 contact tracing, a vital aspect of controlling the spread of the virus. By developing a system that can identify potential contacts of infected individuals accurately and efficiently, we aim to contribute to the global efforts in managing the pandemic effectively.
